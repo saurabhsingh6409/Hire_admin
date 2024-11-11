@@ -70,10 +70,14 @@ for student dashboard
     "password": "123"
 
 ### Screenshot
-1. ![image](https://github.com/user-attachments/assets/c0a95647-dad3-42a6-8761-1a988a531a07)
-2. ![image](https://github.com/user-attachments/assets/14954cb4-ef11-4658-b477-d5dcc828be15)
-3. ![image](https://github.com/user-attachments/assets/8fb8a52a-e279-4aa8-9a19-a6ff6e154c8d)
-4. ![image](https://github.com/user-attachments/assets/09348940-6b19-4208-b6cd-52c4239cb9a3)
+1.Landing page
+![image](https://github.com/user-attachments/assets/c0a95647-dad3-42a6-8761-1a988a531a07)
+2.Login page
+![image](https://github.com/user-attachments/assets/14954cb4-ef11-4658-b477-d5dcc828be15)
+3. Student Dashboard
+![image](https://github.com/user-attachments/assets/8fb8a52a-e279-4aa8-9a19-a6ff6e154c8d)
+4. Admin Dashboard
+![image](https://github.com/user-attachments/assets/09348940-6b19-4208-b6cd-52c4239cb9a3)
 
 
 
